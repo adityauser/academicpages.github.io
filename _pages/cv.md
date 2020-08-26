@@ -11,49 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Integrated Dual Degree (Masters, Bachelor) in Mathematics and Computing, Indian Institute of Technology (BHU), Varanasi, 2022 (expected)
+* Class XII, Kendriya Vidyalaya BHU, Varanasi, 2017
+* Class X, Kendriya Vidyalaya BHU, Varanasi, 2015
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Research Internship | Centrum Wiskunde & Informatica, Amsterdam	Summer 2020
+  * Implemented novel ES pipeline for solving board games like connect-four by integrating OpenSpiel to already implemented state-of-the-art ES algorithms.
+  * Exposure: Evolution Strategies, AlphaGo Zero, OpenSpiel, Ray and Redis
+  * Supervisor: Dr Hendrik Baier, Intelligent and Autonomous Systems group at CWI
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Internship | Swaayatt Robots, Bhopal				Early Summer 2020
+  * Design an RL(TRPO) based pure pursuit controller on aiding motion planner to generate the trajectory for the vehicle.
+  * Exposure: Chunking, Tsfresh, Tensorflow, Dask
+  * Supervisor: Mr Sanjeev Sharma, CEO & Founder of Swaayatt Robots
   
+
+* Developer Student | Google Summer of Code 2019			 Summer 2019
+  * Made a model to predict fever onset of ill patients from look up to 6 hours back vital data streams.
+  * Exposure: CARLA, ROS, TRPO, Pure Pursuit controller, Cython
+  * Supervisor: Prof. Rishikesan Kamaleswaran, University of Tennessee Health Science Center
+  
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages:
+  * Python
+  * C++/C
+  * Java(Basic)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Areas of Interest:
+  * Reinforcement Learning
+  * Imitation Learning
+  * Deep Learning
+  * Computer Vision
+
+* Technologies: Git, Keras, TensorFlow, PyTorch, GCP, AWS, Ray, Linux
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Google AI Explore ML Facilitator:      July 2019 - January 2020
+  * Facilitated over 350 college students with Basic, Intermediate and Advanced ML Courses designed by Google.
+
+
+Checkout Aditya Singh's Full CV [here](https://drive.google.com/file/d/1WHduES1uQS3EhTjgMQm8iC2KYwtLF1G5/view?usp=sharing).
