@@ -22,12 +22,20 @@ I am really lucky to have interacted and worked with many amazing people on extr
 
 
 ## **LATEST**
-**September 2020:** Research Internship at CWI, Amsterdarm completed!
+**September 2020:** Research Internship at CWI, Amsterdarm completed! 
+
 **June 2020:** Research Internship at Swaayatt Robots, Bhopal completed!
+
 **April 2020:** I'm very exited to begin my work with Dr Hendrik Barier, Intelligent and Autonomous Systems group at CWI on Evolutionary Stratergies.
+
 **April 2020:** Started my virtual Internship under supervision of Mr Sanjeev Sharma, Swaayatt Robots, Bhopal on Autonomous navigation using Reinforcement Learning.
+
 **August 2019:** Hurray!! Successfully completed my GSoC'19 project.
+
 **July 2019:** Started working on my stream project. Which is on Non Stationary RL.
+
 **April 2019:** Exited to colloborate with University of Tennessee Health Science Center on Fever Onset Pridiction project which is under umberella of GSoC'19.
+
 **July 2018:** Created my first reposetory on Reinforcement Learning.
+
 **July 2017:** Got admitted in IIT (BHU) Varanasi where I will pursue Integrated Dual Degree (B.Tech, M.Tech) in Mathematics and Computing.

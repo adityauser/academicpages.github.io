@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<img align="right" width="200" height="200" src="https://i.imgur.com/lHKaUhj.jpg">
+<img align="right" width="200" height="200" src="https://github.com/adityauser/adityauser.github.io/blob/master/images/IITBHU-Logo.jpg">
 
 ## Integerated Dual Degree (B.Tech + M.Tech) in Mathematics and Computing 
 Indian Institute of Technology (BHU) Varanasi 
@@ -20,7 +20,7 @@ CPI: 8.57/10
 <br />
 <br />
 
-<img align="right" width="200" height="200" src="https://i.imgur.com/BUKiPpn.png">
+<img align="right" width="200" height="200" src="https://i.imgur.com/Kendriya_Vidyalaya_logo.jpg">
 
 ## Class 12th
 Kendriya Vidyalalya (BHU), Varanasi
@@ -29,7 +29,7 @@ Percentage: 90.20%
 
 
 <br /><br /><br />
-<img align="right" width="200" height="200" src="https://i.imgur.com/BUKiPpn.png">
+<img align="right" width="200" height="200" src="https://i.imgur.com/Kendriya_Vidyalaya_logo.jpg">
 
 ## Class 10th
 Kendriya Vidyalalya (BHU), Varanasi

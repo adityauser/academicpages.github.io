@@ -18,18 +18,18 @@ Education
 
 Work experience
 ======
-*Research Internship | Centrum Wiskunde & Informatica, Amsterdam	Summer 2020
+* Research Internship at Centrum Wiskunde & Informatica, Amsterdam	Summer 2020
   * Implemented novel ES pipeline for solving board games like connect-four by integrating OpenSpiel to already implemented state-of-the-art ES algorithms.
   * Exposure: Evolution Strategies, AlphaGo Zero, OpenSpiel, Ray and Redis
   * Supervisor: Dr Hendrik Baier, Intelligent and Autonomous Systems group at CWI
 
-* Research Internship | Swaayatt Robots, Bhopal				Early Summer 2020
+* Research Internship at Swaayatt Robots, Bhopal				Early Summer 2020
   * Design an RL(TRPO) based pure pursuit controller on aiding motion planner to generate the trajectory for the vehicle.
   * Exposure: Chunking, Tsfresh, Tensorflow, Dask
   * Supervisor: Mr Sanjeev Sharma, CEO & Founder of Swaayatt Robots
   
 
-* Developer Student | Google Summer of Code 2019			 Summer 2019
+* Developer Student at Google Summer of Code 2019			 Summer 2019
   * Made a model to predict fever onset of ill patients from look up to 6 hours back vital data streams.
   * Exposure: CARLA, ROS, TRPO, Pure Pursuit controller, Cython
   * Supervisor: Prof. Rishikesan Kamaleswaran, University of Tennessee Health Science Center

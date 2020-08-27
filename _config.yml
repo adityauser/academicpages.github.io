@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aditya Singh"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Senior Undergraduate Department of Mathematical Sciences, Indian Institute of Technology (BHU) Varanasi, India."
   location         : "Varanasi, India"
   employer         :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/profile.php?id=100020821460716"
+  facebook         : "profile.php?id=100020821460716"
   foursquare       :
   github           : "adityauser"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/aditya-singh-545727161/"
+  linkedin         : "aditya-singh-545727161"
   orcid            : 
   pinterest        :
   soundcloud       :

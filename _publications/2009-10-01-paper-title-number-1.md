@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "Machine Learning Predicts Early Onset of Sepsis from Continuous Physiological Data of Critically Ill Adults."
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
----
-This paper is about the number 1. The number 2 is left for future work.
+permalink: /publication/Nov-2019-P1
+date: Nov-2019
+venue: 'IEEE-NIH (HI-PoCT) 2019 Conference , Bethesda, Maryland'
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Paper Code](https://github.com/cbmi-uthsc/feverPrediction)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ronet Swaminathan, Aditya Singh, Akram Mohammed, and Rishikesan Kamaleswaran. (2019). "Machine Learning Predicts Early Onset of Sepsis from Continuous Physiological Data of Critically Ill Adults." <i>Presented at the IEEE-NIH Healthcare Innovations and Point-of-Care Technologies (HI-PoCT) 2019 Conference , Bethesda, Maryland.</i>. 1(1).
+
+  
